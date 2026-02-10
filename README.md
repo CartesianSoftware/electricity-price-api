@@ -7,7 +7,9 @@ We have uploaded a week's worth of half-hourly electricity prices for each state
 CSV. Your task is to create a web API that allows clients to retrieve the
 mean electricity price for a specific state.
 
-You may use either Python or JavaScript/TypeScript to complete this challenge.
+Python/Typescript is preferred however feel free to use language you are most comfortable in
+
+We expect this task to take approximately 2–3 hours. Please do not spend significantly longer than this.
 
 ## The Challenge
 
@@ -37,8 +39,11 @@ This exercise is intended to assess your ability to:
 
 * Write clean and maintainable code
 * Build simple and well-structured web applications
+* API Design
 * Handle data ingestion and processing
 * Follow best practices in testing, structure, and deployment
+
+The dataset provided is small, but assume this service may eventually need to handle significantly larger datasets and higher request volumes. Design with this in mind where appropriate, but do not over-engineer.
 
 ## Submission
 
